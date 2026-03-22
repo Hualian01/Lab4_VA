@@ -1,4 +1,10 @@
 # Laboratorio#4 Segmentación y Reconocimiento
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
 Este laboratorio explora técnicas avanzadas de procesamiento de imágenes utilizadas en flujos de trabajo modernos de visión artificial. El objetivo es comprender cómo se pueden analizar y mejorar computacionalmente estructuras visuales complejas.
 
 El laboratorio demuestra operaciones clave de preprocesamiento que constituyen pasos fundamentales para los sistemas de visión artificial basados ​​en aprendizaje profundo.
@@ -25,7 +31,7 @@ El laboratorio demuestra operaciones clave de preprocesamiento que constituyen p
 - Interpretar los resultados visuales procesados.
 
 ## Preview
-
+![A](img4.png)
 
 ## Resultados del aprendizaje
 - El preprocesamiento avanzado mejora la detectabilidad de las características.
